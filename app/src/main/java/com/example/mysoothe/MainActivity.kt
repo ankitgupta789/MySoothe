@@ -112,6 +112,7 @@ fun AlignYourBodyItem(item: AlignBody) {
     }
 }
 
+
 /* ---------------- FAVORITE COLLECTIONS ---------------- */
 
 @Composable
